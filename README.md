@@ -1,2 +1,2 @@
-# tc2005B_test
-Prueba
+# Equipo3_Prueba_Branching
+En este repositorío se harán las pruebas de branching
